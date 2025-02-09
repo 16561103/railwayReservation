@@ -1,5 +1,5 @@
 #include"admin.h"
-
+// admin file
 void Adminlogin::AdminLoginWindow()
 {
       
